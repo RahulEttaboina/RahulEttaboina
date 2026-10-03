@@ -124,7 +124,7 @@ I'm focused on building a career in **Data Analytics and Business Intelligence**
 
 📧 **Email:** [rahulettaboina25@gmail.com](mailto:rahulettaboina25@gmail.com)
 
-💼 **LinkedIn:** [View my LinkedIn Profile](https://www.linkedin.com/in/rahul-ettaboina-5b259122a/)
+💼 **LinkedIn:** [Rahul Ettaboina](https://www.linkedin.com/in/rahul-ettaboina-5b259122a/)
 
 🐙 **GitHub:** [RahulEttaboina](https://github.com/RahulEttaboina)
 
