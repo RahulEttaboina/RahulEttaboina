@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Ettaboina 👋
 
-### Data Analyst | SQL | Python | Power BI | Tableau
+### Data Analyst | SQL | Python | Tableau | Data Analytics
 
 I'm a data-focused professional with **3+ years of experience at Tata Consultancy Services (TCS)**, working across SQL-based data validation, reporting, data analysis, testing, business requirements, and production support.
 
@@ -18,8 +18,7 @@ I'm focused on building data-driven solutions that transform raw data into meani
 - Statistics
 - Exploratory Data Analysis (EDA)
 
-### 📈 Business Intelligence & Visualization
-- Power BI
+### 📈 Data Visualization
 - Tableau
 - Microsoft Excel
 - Matplotlib
@@ -105,18 +104,19 @@ Analysis of customer characteristics and treadmill product preferences using des
 
 - Advanced SQL
 - Python for Data Analytics
-- Power BI
 - Tableau
 - Statistics & Probability
-- Business Intelligence
-- Data Visualisation
+- Data Visualization
 - Exploratory Data Analysis
+- Business Analytics
+- Data Validation & Reconciliation
+- Reporting & KPI Analysis
 
 ---
 
 ## 🎯 Career Focus
 
-I'm focused on building a career in **Data Analytics and Business Intelligence**, combining my technical experience, SQL expertise, analytical skills, and business understanding to solve real-world problems using data.
+I'm focused on building a career in **Data Analytics**, combining my technical experience, SQL expertise, analytical skills, Tableau knowledge, and business understanding to solve real-world problems using data.
 
 ---
 
